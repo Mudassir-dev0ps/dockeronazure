@@ -11,7 +11,7 @@ pipeline {
 
         stage("Checkout") {
             steps {
-                git 'https://github.com/your-user/demo-app.git'
+                git 'https://github.com/Mudassir-dev0ps/dockeronazure'
             }
         }
 
